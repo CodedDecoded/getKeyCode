@@ -1,0 +1,25 @@
+.mainhead{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.mainhead h1{
+    max-height: 20vh;
+}
+body{
+    overflow: hidden;
+    color: rgb(0, 0, 0, 0.84);
+    background: #fff7f7;
+}
+#keycode{
+    font-size: 12vw;
+}
+#keyname{
+    font-family: Kalam;
+    font-size: 20px;
+    background: #f1f1f1;
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 10px 20px 5px 20px;
+}
